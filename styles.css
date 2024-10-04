@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin-left: 24px;
+    border-top: 3px solid #000;
+}
+
+h2 {
+    font-size: 16px;
+    color: rgb(0, 149, 0);
+}
+
+h3 {
+    font-size: 16px;
+    color: rgb(0, 149, 0);
+}
+
+h4 {
+    font-size: 18px;
+    color: rgb(0, 91, 237);
+}
